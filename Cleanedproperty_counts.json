@@ -1,0 +1,115 @@
+{
+  "bhkConfiguration": {
+    "2bhk": 468,
+    "1bhk": 127,
+    "undefined": 1204,
+    "3bhk": 184,
+    "+7bhk": 6,
+    "5bhk": 33,
+    "1rk": 26,
+    "4bhk": 86,
+    "6bhk": 11,
+    "7bhk": 5
+  },
+  "furnishedStatus": {
+    "unfurnished": 1376,
+    "semi_furnished": 282,
+    "furnished": 107,
+    "undefined": 385
+  },
+  "propertyStatus": {
+    "ready_to_move": 1790,
+    "under_construction": 66,
+    "undefined": 294
+  },
+  "propertyFor": {
+    "rent": 624,
+    "sale": 1486,
+    "undefined": 40
+  },
+  "propertyName": {
+    "house": 877,
+    "shop": 314,
+    "plot": 642,
+    "pg": 13,
+    "undefined": 146,
+    "complex": 19,
+    "farmland": 16,
+    "flat": 59,
+    "villa": 5,
+    "warehouse": 1,
+    "Shop on rent": 3,
+    "For commerical use": 2,
+    "Plot for sale in Bilaspur-Raipur road": 1,
+    "2 BHK": 1,
+    "Double storey house ": 1,
+    "For Rent": 1,
+    "Good location Shop for sell": 2,
+    "3 BHK on first floor": 1,
+    "Ashtvinayaka City": 1,
+    "Bajaj Sky Heights ": 1,
+    "Near Uslapur Railway Station ": 1,
+    "Office space / storehouse available for rent.": 2,
+    "Shop for rent": 3,
+    "PG": 1,
+    "Premium Plotting Project at reasonable price ": 1,
+    "Sai Green City": 1,
+    "urgent Sale karna h": 1,
+    "Avineel City": 1,
+    "krishna Apartment": 1,
+    "Shop gor rent in Mannu Chowk, Tilrapara": 1,
+    "Premium Plotting Project ": 1,
+    "T&C RERA APPROVAL ": 1,
+    "Ready to move house 2BHK , Good location, 3km from bus stand ": 1,
+    "Aawashiy Plot uplabdh": 1,
+    "2400/4800 sqft East Facing Plot for Sale ": 1,
+    "8.5 Dismil Residencial plot for sell ": 1,
+    "Swarnima Heights ": 1,
+    "residential House For ": 1,
+    "residential House For sale": 7,
+    "Plot For Sale In Hemunagar ": 1,
+    "Sell fast ": 2,
+    "Geetanjali Era": 1,
+    "plots in pirda near kachna Shankar Nagar Raipur ": 1,
+    "residential House For rent": 2,
+    "2bhk ka makan mopka RTO green chawla marege resort ke pass ": 1,
+    "🏢 **\"Spacious Serenity: 2 BHK Haven on the 4th Floor!\"** 🌟": 1,
+    "Dream Enclave Ke Pass": 1,
+    "residential Plots For sale": 2,
+    "SAVITRI PLAZA ": 1,
+    "residential FLAT For rent": 1,
+    "Office space/ godown / shop space ": 1,
+    "residential Farm For sale": 1
+  },
+  "pgAvailablefor": {
+    "both": 1602,
+    "girls": 10,
+    "undefined": 530,
+    "boys": 8
+  },
+  "propertyType": {
+    "undefined": 1532,
+    "commercial": 117,
+    "residential": 501
+  },
+  "plotType": {
+    "undefined": 1956,
+    "independent_plot": 161,
+    "layout": 24,
+    "gated_community": 9
+  },
+  "facingDirections": {
+    "undefined": 2090,
+    "north": 8,
+    "south": 9,
+    "east": 22,
+    "north_west": 1,
+    "South_east": 10,
+    "west": 10
+  },
+  "userType": {
+    "user": 2043,
+    "agent": 87,
+    "undefined": 20
+  }
+}
