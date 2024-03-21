@@ -51,11 +51,11 @@ const furnishedStatusMapping = {
 };
 const propertyForMapping = {
     "rent": "rent",
-    "sale": "sale",
-    "Sale": "sale",
+    "sale": "sell",
+    "Sale": "sell",
     "undefined": "undefined",
-    "sell": "sale",
-    "SELL": "sale"
+    "sell": "sell",
+    "SELL": "sell"
 };
 
 const propertyStatusMapping = {
